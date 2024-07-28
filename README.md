@@ -16,7 +16,6 @@ The objective of this case study is to apply advanced data analysis techniques u
 
 ### **Data Source:**
 
-[loan_final313_.csv](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1e1bc70-9ede-4c69-84fd-42c5605803a0/002f5ee6-33a9-4ad8-85a7-8a915015ea71/loan_final313_.csv)
 
 The loan dataset provides a detailed snapshot of consumer lending, encompassing a wide array of information about individual loans.
 
