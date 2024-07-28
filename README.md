@@ -21,14 +21,14 @@ The objective of this case study is to apply advanced data analysis techniques u
 The loan dataset provides a detailed snapshot of consumer lending, encompassing a wide array of information about individual loans.
 
 1. **id**: A unique identifier for each loan.
-2. 
-3. **year**: The year when the loan was issued.
-4. 
-5. **issue_d**: The specific date when the loan was issued.
-6. 
-7. **final_d**: A date-related field, possibly indicating the final date of the loan term or the date of final payment.
-8. 
-9. **emp_length_int**: Employment length of the borrower, in years, as an integer and so on.
+
+2. **year**: The year when the loan was issued.
+   
+3. **issue_d**: The specific date when the loan was issued.
+   
+4. **final_d**: A date-related field, possibly indicating the final date of the loan term or the date of final payment.
+   
+5. **emp_length_int**: Employment length of the borrower, in years, as an integer and so on.
     
 
  
@@ -36,25 +36,25 @@ The loan dataset provides a detailed snapshot of consumer lending, encompassing 
 ### **Part 1: Excel Data Analysis: Manipulation, Formulas and Functions**
 
 1. **Missing Data Analysis:** Identify any missing data in the loan dataset. What patterns, if any, can be observed in the missing data?
-2. 
-3. **Loan Amount Distribution:** Analyze the distribution of loan amounts. What is the average, median, and range of loan amounts?
-4. 
-5. **Interest Rate Trends:** Examine how interest rates have changed over the years. Create a line chart to visualize this trend.
-6. 
-7. **Loan Status Analysis:** Categorize loans based on their condition (e.g., Good Loan, Bad Loan). What percentage of loans falls into each category?
-8. 
-9. **Income Category and Loan Amount Correlation:** Investigate if there is a correlation between income categories and loan amounts.
-10. 
-11. **Region-wise Loan Analysis:** Which region has the highest number of loans? Visualize the distribution of loans across different regions.
-12. 
-13. **Debt-to-Income Ratio Insights:** Calculate and analyze the average debt-to-income ratio for each loan grade.
-14. 
-15. **Home Ownership Impact:** Examine how home ownership status (rent, own, mortgage) affects loan conditions and interest rates
+   
+2. **Loan Amount Distribution:** Analyze the distribution of loan amounts. What is the average, median, and range of loan amounts?
+   
+3. **Interest Rate Trends:** Examine how interest rates have changed over the years. Create a line chart to visualize this trend.
+   
+4. **Loan Status Analysis:** Categorize loans based on their condition (e.g., Good Loan, Bad Loan). What percentage of loans falls into each category?
+   
+5. **Income Category and Loan Amount Correlation:** Investigate if there is a correlation between income categories and loan amounts.
+    
+6. **Region-wise Loan Analysis:** Which region has the highest number of loans? Visualize the distribution of loans across different regions.
+    
+7. **Debt-to-Income Ratio Insights:** Calculate and analyze the average debt-to-income ratio for each loan grade.
+    
+8. **Home Ownership Impact:** Examine how home ownership status (rent, own, mortgage) affects loan conditions and interest rates
 
-16. **Employment Length and Loan Condition:** Is there a relationship between the length of employment and the condition of loans?
-17. 
-18. **Loan Amount vs. Annual Income:** Create a scatter plot to analyze the relationship between loan amounts and borrower's annual income and so on.
-19. 
+9. **Employment Length and Loan Condition:** Is there a relationship between the length of employment and the condition of loans?
+    
+10. **Loan Amount vs. Annual Income:** Create a scatter plot to analyze the relationship between loan amounts and borrower's annual income and so on.
+    
 
 
 
@@ -65,65 +65,65 @@ Create a comprehensive dashboard in Excel that provides real-time insights into 
 ### **Key Elements to Include in the Dashboard:**
 
 1. **Summary Statistics Section:**
-2. 
+
     - Total number of loans.
-    - 
+      
     - Average loan amount.
-    - 
+      
     - Average interest rate.
-    - 
+      
     - Overall default rate.
   
-3. **Loan Distribution Visuals:**
+2. **Loan Distribution Visuals:**
    
     - Pie charts or bar graphs showing the distribution of loans by region, income category, and loan purpose.
-    - 
+      
     - Histogram or box plot of loan amounts and interest rates.
-    - 
-5. **Risk Profile Analysis:**
+      
+3. **Risk Profile Analysis:**
    
     - A risk matrix or heatmap showing the default rates across different loan grades and employment lengths.
-    - 
+      
     - Graphical representation of the Loan Profitability Index (LPI) across different categories.
-    - 
-7. **Trend Analysis Over Time:**
-8. 
+      
+4. **Trend Analysis Over Time:**
+ 
     - Line or area charts displaying trends in loan amounts, interest rates, and default rates over time.
-    - 
+      
     - Year-over-year comparison of key metrics.
-    - 
-9. **Loan Status Overview:**
-10. 
+      
+5. **Loan Status Overview:**
+ 
     - Current status of loans (e.g., current, late, defaulted) visualized using a donut chart or stacked bar chart.
-    - 
+      
     - Details of recovery rates for defaulted loans.
-    - 
-11. **Interactive Filters and Slicers:**
-12. 
+      
+6. **Interactive Filters and Slicers:**
+ 
     - Allow users to filter data based on year, region, loan grade, employment length, etc.
-    - 
+      
     - Slicers for dynamically adjusting the data view (e.g., showing data for a specific income category).
-    - 
-13. **Correlation and Analysis Section:**
-14. 
+      
+7. **Correlation and Analysis Section:**
+ 
     - Scatter plots showing the relationship between loan amount and borrower's annual income, or interest rate and default rate.
-    - 
+      
     - Conditional formatting to highlight outliers or areas of concern.
-    - 
-15. **Predictive Insights Area:**
-16. 
+      
+8. **Predictive Insights Area:**
+ 
     - Display predictive analysis results, such as forecasted default rates or expected loan demand in upcoming periods.
-    - 
-17. **Data Tables:**
-18. 
+      
+9. **Data Tables:**
+ 
     - Detailed tables with conditional formatting highlighting key figures, such as high-risk loans or loans with high-interest rates.
-    - 
+      
     - Top 5 lists (e.g., regions with the most loans, most common loan purposes).
-    - 
-19. **Dashboard Controls and Functionality:**
-20. 
+      
+10. **Dashboard Controls and Functionality:**
+ 
     - Refresh button to update data.
-    - 
+      
     - Clear filters button for resetting the dashboard view.
-    - 
+      
     - Instructional tooltips or help icons for guiding users.
