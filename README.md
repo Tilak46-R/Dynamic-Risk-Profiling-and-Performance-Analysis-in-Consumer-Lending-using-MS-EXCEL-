@@ -4,6 +4,8 @@
 
 ### **Dynamic Risk Profiling and Performance Analysis in Consumer Lending**
 
+![1_zdaj_q66kjXS8rygZ7hOEw](https://github.com/user-attachments/assets/1e6f3b65-8f13-43b6-b2af-c8096df96d92)
+
 ### **Background:**
 
 The consumer lending landscape has undergone significant transformation in recent years, driven by evolving economic conditions, technological advancements, and changing consumer behaviors. In this dynamic environment, lenders face the challenge of managing a diverse loan portfolio while balancing profitability with risk. The ability to effectively analyze and interpret loan data is crucial for making informed decisions and maintaining a competitive edge.
